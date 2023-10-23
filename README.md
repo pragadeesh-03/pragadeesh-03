@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; justify-content: center;">
 <h1 align="center">Hi 👋, I'm Pragadeesh S</h1>
-<h3 align="center">A passionate frontend developer and an aspiring data scientist from India.</h3>
+<h3 align="center">An enthusiastic Java developer and an aspiring software engineer. I like to develop Java Applications to provide a user-friendly experience and operational efficiency. </h3>
 
 <p align="left"> <a href="https://github.com/pragadeesh-03"><img src="https://github-profile-trophy.vercel.app/?username=pragadeesh-03" alt="pragadeesh-03" /></a> </p>
 
